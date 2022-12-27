@@ -41,4 +41,12 @@ p {
     padding: 85px;
     box-shadow: 0 0;
   }
+
+  h1 {
+    font-weight: 700;
+  }
+
+  p {
+    font-weight: 600;
+  }
 }
