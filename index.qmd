@@ -1,7 +1,16 @@
 ---
-title: "thirteen"
+title: 一十三
 ---
 
-This is a Quarto website.
+:::{layout-ncol=2}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 随笔
+
+[开车](docs/kai-che.qmd) \ [飞天](docs/kai-che.qmd)  
+[入地](docs/kai-che.qmd)
+
+## 电影
+
+[我这一辈子](docs/wo-zhe-yi-bei-zi.qmd)
+
+:::
