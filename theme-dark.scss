@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap");
+$font-family: "Noto Serif SC", serif;
+$headings-font-weight:  600;
+
+$body-bg: #17181a;
+$navbar-bg: $body-bg;
+
+/*css dark*/
+.content {
+  background: #1f2022;
+  color: #d0d3d8;
+}
