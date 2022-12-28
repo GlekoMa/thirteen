@@ -22,7 +22,7 @@ title: 画廊
 ![海报](docs/images/wo-zhe-yi-bei-zi/海报.webp)
 
 ::: {layout-nrow=2}
-![](docs/images/wo-zhe-yi-bei-zi/纠纷.PNG)
+![](docs/images/wo-zhe-yi-bei-zi/纠纷.jpg)
 
 ![](docs/images/wo-zhe-yi-bei-zi/拷问.webp)
 :::
