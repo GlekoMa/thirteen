@@ -1,0 +1,32 @@
+---
+title: 画廊
+---
+
+::: {.panel-tabset}
+
+## 开车
+
+::: {layout-nrow=2 layout-valign="bottom"}
+![客家土楼](docs/images/kai-che/土楼.JPG)
+
+![川剧](docs/images/kai-che/川剧.JPG)
+
+![长亭挂“福”](docs/images/kai-che/长亭凭栏.JPG)
+
+![夜归](docs/images/kai-che/夜归.JPG)
+:::
+
+## 我这一辈子
+
+::: {layout="[40, 60]"}
+![海报](docs/images/wo-zhe-yi-bei-zi/海报.webp)
+
+::: {layout-nrow=2}
+![](docs/images/wo-zhe-yi-bei-zi/纠纷.PNG)
+
+![](docs/images/wo-zhe-yi-bei-zi/拷问.webp)
+:::
+:::
+
+:::
+
