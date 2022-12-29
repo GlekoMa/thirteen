@@ -1,0 +1,44 @@
+
+p {
+  font-size: 10pt;
+}
+
+table {
+  margin-top: 2em;
+}
+
+tr {
+  height: 2.25em;
+}
+
+th {
+  width: 12em;
+  font-weight: 300;
+}
+
+td>p {
+  margin-bottom: 0;
+  font-weight: 300;
+}
+
+.title {
+  display: none;
+}
+
+#body-header {
+  position: relative;
+  margin-top: 35px;
+  margin-bottom: -40px;
+}
+
+#body-header-category {
+  font-size: 13pt;
+  text-indent: 0.25em;
+}
+
+#body-header-link {
+  font-size: 11pt;
+  top: 7.5%;
+  right: 0.5%;
+}
+

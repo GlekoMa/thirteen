@@ -1,5 +1,6 @@
 ---
-title: 看电影《我这一辈子》
+title: 我这一辈子
+href: https://www.ndc.co.jp/cn/
 ---
 
 看电影，《我这一辈子》1950年。  

@@ -1,15 +1,10 @@
 ---
 title: 一十三
+include-before-body: _body-header.html
 ---
 
-:::{layout-ncol=2}
-
-## 随笔
-
-[开车](docs/kai-che.qmd)
-
-## 电影
-
-[我这一辈子](docs/wo-zhe-yi-bei-zi.qmd)
-
-:::
+<style type="text/css">
+  .title {
+    display: none;
+  }
+</style>

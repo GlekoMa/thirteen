@@ -1,0 +1,28 @@
+.title {
+  display: none;
+}
+
+#body-header {
+  display: inline-block;
+  position: relative;
+  margin-top: 35px;
+  margin-bottom: -40px;
+}
+
+#body-header-category {
+  margin: 0;
+  padding-top: 2.8px;
+  padding-bottom: 0.4px;
+  font-size: 16pt;
+  text-indent: 0.1em;
+}
+
+#body-header-link {
+  color: #606060;
+  margin-left: 0.4em;
+  font-size: 15pt;
+}
+
+#body-header-link:hover {
+  color: #4777ac;
+}

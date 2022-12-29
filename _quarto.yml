@@ -7,8 +7,6 @@ website:
     right:
       - icon: house
         href: index.qmd
-      - icon: images
-        href: gallery.qmd
 
 format:
   html:
