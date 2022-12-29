@@ -5,4 +5,10 @@ $headings-font-weight:  600;
 
 $body-bg: #fafafa;
 $navbar-bg: $body-bg;
+$link-color: black;
+$link-hover-color: black;
 
+/*-- scss:rules --*/
+.hyper-link::after {
+  background-color: black;
+}

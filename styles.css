@@ -17,12 +17,7 @@ p {
 }
 
 a {
-  color: black;
   text-decoration: none;
-}
-
-a:hover {
-  color: black;
 }
 
 .navbar #quarto-search {
@@ -61,7 +56,6 @@ a:hover {
   top: 100%;
   bottom: 0;
   left: 0;
-  background-color: black;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
   transform: scaleX(0);

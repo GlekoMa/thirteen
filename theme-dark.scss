@@ -5,9 +5,15 @@ $headings-font-weight:  600;
 
 $body-bg: #17181a;
 $navbar-bg: $body-bg;
+$link-color: #d0d3d8;
+$link-hover-color: #d0d3d8;
 
-/*css dark*/
+/*-- scss:rules --*/
 .content {
   background: #1f2022;
   color: #d0d3d8;
+}
+
+.hyper-link::after {
+  background-color: #d0d3d8;
 }
