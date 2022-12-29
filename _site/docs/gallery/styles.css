@@ -1,6 +1,6 @@
 
 p {
-  font-size: 10pt;
+  font-size: 11pt;
 }
 
 table {
@@ -17,12 +17,16 @@ th {
 }
 
 td>p {
-  margin-bottom: 0;
+  margin-bottom: -1px;
   font-weight: 300;
 }
 
 .title {
   display: none;
+}
+
+.quarto-layout-row {
+  flex-direction: row;
 }
 
 #body-header {
@@ -42,3 +46,29 @@ td>p {
   right: 0.5%;
 }
 
+/*for phone*/
+@media screen and (max-width:480px) {
+  table {
+    margin: 1em -0.5em;
+  }
+  
+  .quarto-layout-panel {
+    margin: 0 -0.5em;
+  }
+  
+  .quarto-layout-row {
+    flex-direction: column;
+  }
+
+  .quarto-layout-cell {
+    margin: 0.3em 0;
+  }
+
+  #body-header-category {
+  text-indent: -0.3em;
+  }
+
+  #body-header-link {
+    right: -1%;
+  }
+}
