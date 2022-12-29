@@ -17,6 +17,8 @@ people: 李紫茹、张航、马佳璇
 ![](images/挂福.jpg)
 :::
 
+::: {layout-ncol=1}
 ![](images/夜归.jpg)
+:::
 
 {{< include ../_body-tailer.md >}}
